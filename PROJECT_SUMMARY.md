@@ -12,32 +12,32 @@ Think: **Splunk/QRadar/Wazuh**, but lightweight, open-source, and security-focus
 
 ## Key Features
 
-✅ **Multi-Source Ingestion**
+ **Multi-Source Ingestion**
 - Syslog listener (UDP)
 - File tail watcher (watchdog)
 - HTTP webhooks
 - Rate limiting per source
 
-✅ **Correlation Engine**
+ **Correlation Engine**
 - Pattern rules (regex matching)
 - Threshold rules (count-based with sliding windows)
 - Correlation rules (multi-event detection)
 - All rules user-configurable
 
-✅ **Real-Time Alerts**
+ **Real-Time Alerts**
 - WebSocket push to dashboard
 - Severity levels (info/warning/critical)
 - Alert acknowledgment
 - Event context included
 
-✅ **Security-First**
+ **Security-First**
 - JWT authentication
 - Input validation/sanitization
 - Rate limiting
 - Sandboxed rule execution
 - No code execution in rules
 
-✅ **Modern Stack**
+ **Modern Stack**
 - Backend: Python + FastAPI + asyncio
 - Frontend: React + TypeScript + Tailwind
 - Real-time: WebSockets
@@ -45,7 +45,6 @@ Think: **Splunk/QRadar/Wazuh**, but lightweight, open-source, and security-focus
 
 ## Why This Project?
 
-### For Job Search (Security Engineer II at AMH)
 1. **Demonstrates Security Domain Knowledge**
    - Log analysis and correlation
    - Threat detection patterns
@@ -256,11 +255,9 @@ MIT - Free to use, modify, and extend for personal/commercial projects.
 
 ## Author
 
-**m0rs3**
+**m0rs3c0d3*
 - 20+ years coding experience
-- Security+ certified
-- Currently seeking Security Engineer II role
-- Building "Casino-Grade Home Lab Security" blog series
+
 
 ---
 
