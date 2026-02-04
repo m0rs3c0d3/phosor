@@ -316,4 +316,4 @@ MIT
 
 ## Author
 
-Built by m0rs3 - Security-first log correlation for the paranoid.
+Built by m0rs3c0d3 - Security-first log correlation for the paranoid.
